@@ -28,7 +28,7 @@ roundcube__nginx_access_policy: ''
 roundcube__php5_packages: [ 'php-auth-sasl', 'php5-gd', 'php5-intl', 'php5-json',
                            'php5-mcrypt', 'php-mail-mime', 'php-mail-mimedecode',
                            'php-net-smtp', 'php-net-socket', 'php-pear',
-                           'php-net-idna2' ]
+                           'php-net-idna2', 'php-net-ldap3' ]
 
 
 # ---------------------------------------
