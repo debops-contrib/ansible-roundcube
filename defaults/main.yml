@@ -27,7 +27,8 @@ roundcube__nginx_access_policy: ''
 # List of PHP5 packages required by Roundcube.
 roundcube__php5_packages: [ 'php-auth-sasl', 'php5-gd', 'php5-intl', 'php5-json',
                            'php5-mcrypt', 'php-mail-mime', 'php-mail-mimedecode',
-                           'php-net-smtp', 'php-net-socket', 'php-pear' ]
+                           'php-net-smtp', 'php-net-socket', 'php-pear',
+                           'php-net-idna2' ]
 
 
 # ---------------------------------------
